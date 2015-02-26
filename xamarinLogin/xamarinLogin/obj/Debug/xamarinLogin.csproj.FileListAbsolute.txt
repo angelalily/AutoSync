@@ -1,0 +1,15 @@
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\xamarinLogin.csprojResolveAssemblyReference.cache
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\bin\Debug\xamarinLogin.dll
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\bin\Debug\xamarinLogin.pdb
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\bin\Debug\xamarinLogin.dll.mdb
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\bin\Debug\xamarinLogin.xamarinLogin.apk
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\bin\Debug\xamarinLogin.xamarinLogin-Signed.apk
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\xamarinLogin.dll
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\xamarinLogin.pdb
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\android\bin\xamarinLogin.xamarinLogin.apk
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\res\layout\main.xml
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\res\values\strings.xml
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\res\drawable\icon.png
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\R.cs.flag
+c:\users\lilyx_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\uploadflags.txt
+C:\Users\LilyX_000\documents\visual studio 2013\Projects\xamarinLogin\xamarinLogin\obj\Debug\res\drawable\lionup.png
